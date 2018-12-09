@@ -1,0 +1,2 @@
+# scrabbleJS
+Scrabble point counter
